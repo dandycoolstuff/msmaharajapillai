@@ -28,6 +28,7 @@ div.scrollmenu a:hover {
 img {
   height: auto;
   width: 100%;
+  max-width: 400px;
   object-fit: contain;
   background-size: contain;
 }
